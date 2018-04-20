@@ -1,0 +1,1 @@
+add_library (cplib cpaddress.c cpcommon.c cpdictionary.c cpname.c cpparser.c cppatternmap.c cptoken.c)

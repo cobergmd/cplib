@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/addrx/!svn/ver/79/cplib/cplib
+END
+cppatternmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/addrx/!svn/ver/73/cplib/cplib/cppatternmap.c
+END
+cplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/addrx/!svn/ver/74/cplib/cplib/cplib.h
+END
+dictionary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/addrx/!svn/ver/4/cplib/cplib/dictionary.txt
+END
+cptoken.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/addrx/!svn/ver/4/cplib/cplib/cptoken.c
+END
+cppatternmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/addrx/!svn/ver/73/cplib/cplib/cppatternmap.h
+END
+cpname.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/addrx/!svn/ver/4/cplib/cplib/cpname.c
+END
+cptokenizer.l
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/addrx/!svn/ver/4/cplib/cplib/cptokenizer.l
+END
+rulelang.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/addrx/!svn/ver/4/cplib/cplib/rulelang.txt
+END
+cpname.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/addrx/!svn/ver/4/cplib/cplib/cpname.h
+END
+cpaddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/addrx/!svn/ver/4/cplib/cplib/cpaddress.c
+END
+cptoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/addrx/!svn/ver/4/cplib/cplib/cptoken.h
+END
+cplib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/addrx/!svn/ver/74/cplib/cplib/cplib.vcproj
+END
+cpcommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/addrx/!svn/ver/4/cplib/cplib/cpcommon.c
+END
+cpscanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/addrx/!svn/ver/74/cplib/cplib/cpscanner.c
+END
+cpaddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/addrx/!svn/ver/4/cplib/cplib/cpaddress.h
+END
+cpparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/addrx/!svn/ver/74/cplib/cplib/cpparser.c
+END
+cpscanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/addrx/!svn/ver/74/cplib/cplib/cpscanner.h
+END
+cpparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/addrx/!svn/ver/74/cplib/cplib/cpparser.h
+END
+cpcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/addrx/!svn/ver/4/cplib/cplib/cpcoder.h
+END
+lex.cptokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/addrx/!svn/ver/4/cplib/cplib/lex.cptokenizer.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/addrx/!svn/ver/74/cplib/cplib/notes.txt
+END
+rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/addrx/!svn/ver/4/cplib/cplib/rules.txt
+END
+cpdictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/addrx/!svn/ver/73/cplib/cplib/cpdictionary.c
+END
+cpdictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/addrx/!svn/ver/73/cplib/cplib/cpdictionary.h
+END

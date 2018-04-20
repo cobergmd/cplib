@@ -1,0 +1,40 @@
+/* CPLIB - Coding and Parsing Library
+ * Copyright © Craig Oberg.  All rights reserved.
+ */
+
+#include "cplib/cpaddress.h"
+
+#include <assert.h>
+#include <string.h>
+
+int 
+cp_address_test (int argc, char* argv[])
+{
+	const char* city = "Pasadena";
+	const char* state = "MD";
+	const char* zip_code = "21122";
+	const char* zip4 = "5200";
+	const char* house_number = "1014";
+	const char* street_name = "Lauf Ln";
+	const char* sec_designator = "";
+	const char* sec_number = "";
+	const char* firm_name = "";
+
+	CpAddress* address;
+
+	address = cp_address_new();
+
+/*	address->house_number = house_number;
+	address->street_name = street_name;
+	address->sec_designator = sec_designator;
+	address->sec_number = sec_number;
+	address->firm_name = firm_name;
+
+	assert(strcmp(address->house_number, house_number) == 0);
+	assert(strcmp(address->street_name, street_name) == 0);
+	assert(strcmp(address->sec_designator, sec_designator) == 0);
+	assert(strcmp(address->sec_number, sec_number) == 0);
+	assert(strcmp(address->firm_name, firm_name) == 0);
+  */
+	cp_address_destroy(address);
+}

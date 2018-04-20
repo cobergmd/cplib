@@ -1,3 +1,10 @@
+/build
+/.vscode
+/cplib/lex.cptokenizer.c
+/cplib/notes.txt
+**/bin
+**/obj
+
 # Prerequisites
 *.d
 

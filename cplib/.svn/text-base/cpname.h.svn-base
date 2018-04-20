@@ -1,0 +1,41 @@
+/*
+ * cpname.h: A proper name 
+ *
+ * Author:
+ *	Craig Oberg (coberg_va@yahoo.com)
+ *
+ * CPLIB - Coding and Parsing Library
+ * Copyright © Craig Oberg.  All rights reserved.
+ */
+
+#ifndef _CP_NAME_H_
+#define _CP_NAME_H_
+
+#include <cplib/cplib.h>
+
+BEGIN_C_DECLS
+
+/* name and address types */
+typedef struct _CpName CpName;
+
+struct _CpName
+{
+	cpstring prefix;
+	cpstring first;
+	cpstring middle;
+	cpstring last;
+	cpstring suffix; 
+	cpstring nickname;
+};
+
+/* dynamic ctor and dtor */
+CpName* cp_name_new(void);
+void    cp_name_destroy(CpName* name);
+
+/* methods */
+void cp_name_parse(CpName* name, cpstring name_string);
+void cp_name_parse_firm();
+
+END_C_DECLS
+
+#endif /* _CP_NAME_H_ */

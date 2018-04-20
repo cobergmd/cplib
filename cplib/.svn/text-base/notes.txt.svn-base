@@ -1,0 +1,39 @@
+- create a little lang for defining these rules..then compile lang into
+  the rules.txt file.  see rulelang.txt for example.  this will help
+  with the combinatorial explosion that i think will happen with 
+  these patterns.  which brings us to...
+  
+- how to handle duplicate token patterns that have different maps.  
+  example - "1 1 0" can be "po box 123" or "city st 12345"...which will
+  only happen if the dictionary lookup has no address type matches...
+  that seems unlikely though.  need more examples, which brings us to...
+  
+- get a shitload of addresses that are known and run them through the 
+  scanner and dictionary and analyze the resulting patterns.  then i 
+  could grade the dictionary, have the test program provide a list of 
+  suggestions, listings of missing tokens, etc etc.
+
+- find a better alg for matching token patterns to rules.
+  perhaps a binary or prefix tree of some sort.  at least compare it
+  to the current hash table impl.  seems there will be a lot of pattern
+  combos and a hash table might not be the most efficient.
+	
+- add the token scans for & and # to the scanner??  maybe.  need some 
+  examples of how they appear in addresses.
+
+- the process for getting a token id from an output map and associating
+  it with an CpAddress field is crap.  very brute force.  can we make
+  the token ids more meaningful?  or associated with CpAddress fields in
+  a meaningful way? 
+  
+- create a method for writing CpAddress as XML. 
+
+- IMPORTANT: handle two different lines getting the same output pattern.
+  something is probably wrong when it happens, real bad data...and should 
+  only occur with basic token type patterns.
+  
+  Advanced Bipartite Graph Matching
+
+
+
+

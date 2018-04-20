@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/addrx/!svn/ver/4/cplib/cprc
+END
+cprules.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/addrx/!svn/ver/4/cplib/cprc/cprules.cc
+END
+RuleCompilerTokenManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/addrx/!svn/ver/4/cplib/cprc/RuleCompilerTokenManager.cs
+END
+RuleCompilerConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/addrx/!svn/ver/4/cplib/cprc/RuleCompilerConstants.cs
+END
+Token.cs
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/addrx/!svn/ver/4/cplib/cprc/Token.cs
+END
+TokenMgrError.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/addrx/!svn/ver/4/cplib/cprc/TokenMgrError.cs
+END
+RuleCompiler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/addrx/!svn/ver/4/cplib/cprc/RuleCompiler.cs
+END
+cprc.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/addrx/!svn/ver/4/cplib/cprc/cprc.csproj
+END
+SimpleCharStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/addrx/!svn/ver/4/cplib/cprc/SimpleCharStream.cs
+END
+main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/addrx/!svn/ver/4/cplib/cprc/main.cs
+END
+USandCanada.rules
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/addrx/!svn/ver/4/cplib/cprc/USandCanada.rules
+END
+ValueManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/addrx/!svn/ver/4/cplib/cprc/ValueManager.cs
+END
+ParseException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/addrx/!svn/ver/4/cplib/cprc/ParseException.cs
+END
